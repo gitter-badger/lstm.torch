@@ -1,4 +1,6 @@
 ## Implementation LSTM on torch
+
+[![Join the chat at https://gitter.im/didw/lstm.torch](https://badges.gitter.im/didw/lstm.torch.svg)](https://gitter.im/didw/lstm.torch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **Paper**: http://arxiv.org/pdf/1411.4389v3.pdf
 Implement 1st task.
 
